@@ -18,4 +18,8 @@ Created with _create-react-app_. See the [full create-react-app guide](https://g
 
 `npm start`
 
+## Enhancement
 
+1. Removing the dependency of Materialize-CSS module
+
+~~2. Chart going crazy on hovering over the old points~~
