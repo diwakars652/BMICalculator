@@ -1,12 +1,20 @@
 body {
   background-color: #172b4d;
+  background-color: blueviolet;
+  margin: auto;
+  width: 100%;
+  border: #fff;
+  padding: 10px;
+  text-align: center;
 }
 
 input {
   background-color: #fff !important;
   border-radius: 44px !important;
   width: 90% !important;
+  height: 50px;
   padding: 0px 15px !important;
+  align-self: center;
 }
 
 input:focus {
