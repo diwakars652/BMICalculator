@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://diwakars652.github.io/BMICalculator/",
   "dependencies": {
+    "@types/jest": "24.0.20",
     "chart.js": "2.9.1",
     "materialize-css": "1.0.0",
     "prop-types": "15.7.2",
